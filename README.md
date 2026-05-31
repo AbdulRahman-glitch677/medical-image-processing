@@ -48,3 +48,6 @@ To reproduce the model, run the notebook end-to-end on Kaggle with GPU enabled.
 
 ## Tools
 Python, TensorFlow, Keras, NumPy, Matplotlib, Seaborn, scikit-learn
+
+## Notebook
+View the full notebook with code and outputs on Kaggle:https://www.kaggle.com/code/sabdulrahman/medical-image-processing
